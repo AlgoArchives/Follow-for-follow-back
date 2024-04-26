@@ -22,7 +22,6 @@ It is a great way to build a network of developers and to learn from each other.
    - Reach out to developers you've followed.
    - Collaborate on projects, share ideas, and support each other's work.
 
-
 ## License
 
 This repository is licensed under the [MIT License](LICENSE).
