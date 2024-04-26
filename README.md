@@ -1,6 +1,6 @@
 # Follow for a follow back
 
-Welcome to the FollowForFollow repository! This is a place for GitHub users to connect and follow each other back.
+Welcome to the Follow for a follow back repository! This is a place for GitHub users to connect and follow each other back.
 \
 We all know how difficult it is to get followers on [GitHub](https://github.com/) where developers create, store, manage and share their code.
 \
