@@ -1,8 +1,8 @@
 # Profile List
 
 - Add your 
-    - **i) Github username**
-    - **ii) GitHub profile link**
+    - **Github username**
+    - **GitHub profile link**
 - Follow the below felow developers of our team.
 
 ## Profiles
