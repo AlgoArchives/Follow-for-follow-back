@@ -1,4 +1,4 @@
-# Follow-for-follow-back
+# Follow for a follow back
 
 Welcome to the FollowForFollow repository! This is a place for GitHub users to connect and follow each other back.
 \
