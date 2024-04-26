@@ -11,6 +11,7 @@ It is a great way to build a network of developers and to learn from each other.
 ## How to Add yourself
 
 1. **Add Your GitHub Profile to the Team List:**
+   - Fork this repository.
    - Edit [Profiles.md](Profiles.md) to include your GitHub username and profile link.
    - Submit a pull request to update the team list.
 
