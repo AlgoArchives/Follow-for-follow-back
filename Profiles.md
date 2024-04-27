@@ -8,4 +8,4 @@
 ## Profiles
 
 1. [Vikranth3140](https://github.com/Vikranth3140)
-2. ...
+2. [TeckZ0rd](https://github.com/TeckZ0rd)
